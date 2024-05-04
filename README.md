@@ -115,8 +115,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=muskansawant9&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=muskansawant9&theme=nightowl&hide_border=false)<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskansawant9&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"  />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskansawant9&theme=nightowl&hide_border=false"  />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskansawant9&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
