@@ -7,17 +7,20 @@
 <h3 align="center">A passionate Business Intelligence Analyst from India</h3>
 
 <br/>
+ <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1sdW5id3YxMm5odXAwYjd3c3ByaGR0aDduOHo2MDRnc2h2NTNyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJP7EH5i1fB2rKeWbf/giphy.gif"  />
 
-<div align="center">
+<div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+🔭 I’m currently learning **Hadoop**
  
- 🌱 My Portfolio Projects are in:**(https://github.com/muskansawant9/Data Analyst Projects Repo)**
-👨‍💻 My Tableau Projects are at: **(https://github.com/muskansawant9/Tableau Projects)**
+🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/muskansawant9/Portfolio-Projects)
+
+👨‍💻 My **Tableau** Projects are at: [Muskan Sawant - Tableau Projects](https://public.tableau.com/app/profile/muskansawant9)
+
 💬 Ask me about **Python, SQL, Tableau... or anything [here](https://github.com/muskansawant9/muskansawant9/issues)**
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:muskansawant85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -35,12 +38,69 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,nosql,tableau,powerbi,excel,hadoop" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,c++,vscode,git" /><br>
+ 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
+  <img width="12" /></br>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
+</div>
+
+###
+
 </div>
 
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -54,12 +114,15 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://https://streak-stats.demolab.com/?user=muskansawant9&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="hhttps://github-readme-stats.vercel.app/api?username=muskansawant9&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskansawant9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+![](https://github-readme-stats.vercel.app/api?username=muskansawant9&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muskansawant9&theme=nightowl&hide_border=false)<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskansawant9&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 </div>
+
+###
 
 <br/><br/>
 
