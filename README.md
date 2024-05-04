@@ -14,7 +14,7 @@
  
 🔭 I’m currently learning **Hadoop**
  
-🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/muskansawant9/Portfolio-Projects)
+🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/muskansawant9/Data-Analyst-Projects-Repo)
 
 👨‍💻 My **Tableau** Projects are at: [Muskan Sawant - Tableau Projects](https://public.tableau.com/app/profile/muskansawant9)
 
