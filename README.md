@@ -12,7 +12,7 @@
 
 <div align="left">
  
-🔭 I’m currently learning **Hadoop**
+🔭 I’m currently learning **PowerBi**
  
 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/muskansawant9/Data-Analyst-Projects-Repo)
 
